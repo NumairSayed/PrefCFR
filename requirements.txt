@@ -1,0 +1,5 @@
+open_spiel
+numpy
+matplotlib
+joblib
+pokerkit
